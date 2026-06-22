@@ -20,4 +20,11 @@ The goal of this project is to create a static webpage using HTML and CSS while 
 - CSS3
 
 ## Project Structure
+project-1/
+├── public/
+├── src/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
