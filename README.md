@@ -20,6 +20,7 @@ The goal of this project is to create a static webpage using HTML and CSS while 
 - CSS3
 
 ## Project Structure
+```bash
 project-1/
 ├── public/
 ├── src/
@@ -27,4 +28,5 @@ project-1/
 ├── style.css
 ├── script.js
 └── README.md
+```
 
